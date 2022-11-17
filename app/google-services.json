@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936464321528",
+    "project_id": "nopepad-51809",
+    "storage_bucket": "nopepad-51809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936464321528:android:e598366d95c186a465e40d",
+        "android_client_info": {
+          "package_name": "com.gematriga.nopepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936464321528-ce3m7h70plt3h1g3o9slgro2lbf2vao1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhDcdCx6D5RRKsa6TNaRsYf65oiYVWzEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936464321528-ce3m7h70plt3h1g3o9slgro2lbf2vao1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

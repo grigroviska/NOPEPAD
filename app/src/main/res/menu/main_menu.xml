@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/settingsPage"
+        android:title="Settings"
+        android:icon="@drawable/np_settings"/>
+    <item
+        android:id="@+id/exit"
+        android:title="Sign Out"
+        android:icon="@drawable/np_cancel"/>
+
+</menu>

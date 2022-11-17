@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NopePad</string>
+    <string name="search">Search Your Notes</string>
+    <string name="notes_title">Title</string>
+    <string name="notes_snote">Note</string>
+    <string name="notes_date">Date</string>
+    <string name="notes">Start Typing</string>
+    <string name="backUpText">Do you want to back up to the internet?</string>
+    <string name="notesWeb">Enter Web URL</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_image_menu">Add Image</string>
+    <string name="storage_permission_text">This app needs access to your storage.</string>
+
+</resources>
