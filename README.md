@@ -1,13 +1,14 @@
 # NopePad
 
 **Nopepad is a simple note-taking application.MVVM and RoomDatabase features are used in this project.**
+</br></br>
 
 ![](https://img.shields.io/badge/Kotlin-v1.8.0-93b023?&style=for-the-badge&logo=kotlin&logoColor=white)</br>
 ![](https://img.shields.io/badge/SDK-32-93b023?&style=for-the-badge&logo=kotlin&logoColor=white)</br>
 ![](https://img.shields.io/badge/RoomVersion-v2.4.3-93b023?&style=for-the-badge&logo=&logoColor=white)</br>
 ![](https://img.shields.io/badge/Firebase-v29.3.0-93b023?&style=for-the-badge&logo=Firebase&logoColor=white)
 
-</br></br></br>
+</br></br>
 ### FEATURES
 
  ⭐️ Can take notes quickly</br>
