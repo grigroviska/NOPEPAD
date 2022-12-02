@@ -40,6 +40,8 @@ implementation 'pub.devrel:easypermissions:3.0.0'
 implementation 'com.makeramen:roundedimageview:2.3.0'
 ```
 
+##ScreenShots
+
 ![](https://raw.githubusercontent.com/grigroviska/NopePad/main/NopePadScreenShot/NopePad_1.png)
 
 ![](https://raw.githubusercontent.com/grigroviska/NopePad/main/NopePadScreenShot/NopePad_2.png)
