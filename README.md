@@ -13,12 +13,12 @@
 
 ### FEATURES
 
- ⭐️ Can take notes quickly
- ⭐️ Web address can be added to the note
- ⭐️ It also has the feature of adding a picture as a note
- ⭐️ Firebase feature is currently used only as login and registration part
- ⭐️ You can color important notes
- ⭐️ Note search section available
+ ⭐️ Can take notes quickly</br>
+ ⭐️ Web address can be added to the note</br>
+ ⭐️ It also has the feature of adding a picture as a note</br>
+ ⭐️ Firebase feature is currently used only as login and registration part</br>
+ ⭐️ You can color important notes</br>
+ ⭐️ Note search section available</br>
 
 ### Libraries Used
 
